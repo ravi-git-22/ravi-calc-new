@@ -1,0 +1,23 @@
+{
+  "name": "ravi-calc-new",
+  "version": "1.0.2",
+  "description": "this is artefact for arithmetic operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-git-22/ravi-calc-new.git"
+  },
+  "keywords": [
+    "lodash",
+    "calc"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-git-22/ravi-calc-new/issues"
+  },
+  "homepage": "https://github.com/ravi-git-22/ravi-calc-new#readme"
+}
